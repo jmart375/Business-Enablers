@@ -1,4 +1,4 @@
-# Detailed-Threat-Analysis
+# Business Enablers
 
 ## Table of Contents
 1. [Business Organization and Relationships](#i-business-organization-and-relationships)
